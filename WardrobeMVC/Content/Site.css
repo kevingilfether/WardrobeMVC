@@ -23,14 +23,6 @@ textarea {
     max-width: 280px;
 }
 
-.thumbnailPic {
-    height:240px !important;
-}
-
-.detailPic {
-    height:300px !important;
-}
-
 .footerRow {
     margin-top:40px;
 }
