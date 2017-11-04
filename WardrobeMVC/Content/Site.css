@@ -23,10 +23,20 @@ textarea {
     max-width: 280px;
 }
 
-footer {
-    padding-left:15px;
-    padding-right:15px;
-    position: center;
-    bottom:0;
-    left: 15px;
+.thumbnailPic {
+    height:240px !important;
 }
+
+.detailPic {
+    height:300px !important;
+}
+
+.footerRow {
+    margin-top:40px;
+}
+
+.footerCol {
+    text-align:center;
+}
+
+
