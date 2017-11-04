@@ -171,8 +171,29 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\A1.jpg" />
+    <Content Include="Content\A2.jpg" />
+    <Content Include="Content\A3.jpg" />
+    <Content Include="Content\A4.jpg" />
+    <Content Include="Content\A5.jpg" />
+    <Content Include="Content\B1.jpg" />
+    <Content Include="Content\B2.jpg" />
+    <Content Include="Content\B3.jpg" />
+    <Content Include="Content\B4.jpg" />
+    <Content Include="Content\B5.jpg" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\JumbotronBack.jpg" />
+    <Content Include="Content\S1.jpg" />
+    <Content Include="Content\S2.jpg" />
+    <Content Include="Content\S3.jpg" />
+    <Content Include="Content\S4.jpg" />
+    <Content Include="Content\S5.jpg" />
+    <Content Include="Content\T1.jpg" />
+    <Content Include="Content\T2.jpg" />
+    <Content Include="Content\T3.jpg" />
+    <Content Include="Content\T4.jpg" />
+    <Content Include="Content\T5.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -219,7 +240,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Accessories\Create.cshtml" />

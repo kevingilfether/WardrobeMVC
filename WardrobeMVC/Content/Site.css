@@ -23,6 +23,15 @@ textarea {
     max-width: 280px;
 }
 
+p, h1, h2, h3, h4, h5, h6{
+    color: black !important;
+}
+
+.jumbotronFront {
+    background-image: url('JumbotronBack.jpg');
+    background-size:cover;
+}
+
 .footerRow {
     margin-top:40px;
 }
