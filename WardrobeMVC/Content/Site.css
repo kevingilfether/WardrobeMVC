@@ -23,8 +23,17 @@ textarea {
     max-width: 280px;
 }
 
+.navbarCustom {
+    background-color: #B39D8D !important;
+}
+
+.navbarText {
+    color: #000000 !important;
+}
+
 p, h1, h2, h3, h4, h5, h6{
     color: black !important;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .jumbotronFront {
