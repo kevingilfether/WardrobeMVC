@@ -41,6 +41,14 @@ p, h1, h2, h3, h4, h5, h6{
     background-size:cover;
 }
 
+.thumbnail {
+    margin-bottom: 10px;
+}
+
+.indexPic {
+    height: 200px !important;
+}
+
 .footerRow {
     margin-top:40px;
 }
