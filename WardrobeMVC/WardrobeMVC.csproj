@@ -132,6 +132,7 @@
     <Compile Include="Controllers\AccessoriesController.cs" />
     <Compile Include="Controllers\BottomsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\OutfitsController.cs" />
     <Compile Include="Controllers\ShoesController.cs" />
     <Compile Include="Controllers\TopsController.cs" />
     <Compile Include="Global.asax.cs">
