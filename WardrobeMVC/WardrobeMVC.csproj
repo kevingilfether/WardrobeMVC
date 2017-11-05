@@ -132,7 +132,6 @@
     <Compile Include="Controllers\AccessoriesController.cs" />
     <Compile Include="Controllers\BottomsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\OutfitsController.cs" />
     <Compile Include="Controllers\ShoesController.cs" />
     <Compile Include="Controllers\TopsController.cs" />
     <Compile Include="Global.asax.cs">
@@ -252,11 +251,6 @@
     <Content Include="Views\Bottoms\Details.cshtml" />
     <Content Include="Views\Bottoms\Edit.cshtml" />
     <Content Include="Views\Bottoms\Index.cshtml" />
-    <Content Include="Views\Outfits\Create.cshtml" />
-    <Content Include="Views\Outfits\Delete.cshtml" />
-    <Content Include="Views\Outfits\Details.cshtml" />
-    <Content Include="Views\Outfits\Edit.cshtml" />
-    <Content Include="Views\Outfits\Index.cshtml" />
     <Content Include="Views\Shoes\Create.cshtml" />
     <Content Include="Views\Shoes\Delete.cshtml" />
     <Content Include="Views\Shoes\Details.cshtml" />
